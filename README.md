@@ -39,3 +39,4 @@ The following documents provide further details about the business analysis and 
 - [Mockups and Prototypes](docs/Mockup-Prototip.pdf)
 - [Process Flow Diagrams](docs/Proje-Surec-Modelleme-Flowchart.pdf)
 - [BPMN 2.0 Process Flow](docs/Süreç%20Akışı%20BPMN%202.0.pdf)
+- [Use Case Diagram](docs/Use-Case-Diagram.pdf)
