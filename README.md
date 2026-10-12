@@ -35,7 +35,7 @@ This repository contains business analysis and design documentation prepared as 
 
 The following documents provide further details about the business analysis and design work:
 
-- [Main Project Documentation](docs/Internet%20Bankacılığı%20İşlem%20Yönetim%20Sistemi.pdf)
+- [Main Project Documentation](docs/İnternet%20Bankacılığı%20İşlem%20Yönetim%20Sistemi.pdf)
 - [Mockups and Prototypes](docs/Mockup-Prototip.pdf)
 - [Process Flow Diagrams](docs/Proje%20Süreç%20Modelleme%20Flowchart.pdf)
 - [BPMN 2.0 Process Flow](docs/Süreç%20Akışı%20BPMN%202.0.pdf)
