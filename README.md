@@ -27,15 +27,15 @@ The aim is to analyze banking business needs and translate them into structured 
 
 This project demonstrates business analysis and requirements engineering skills within a retail banking context. It focuses on connecting business needs with structured requirements and process design.
 
+## Project Status
+
+This repository contains business analysis and design documentation prepared as an independent portfolio case study. It is not a live banking application, and production implementation or real banking integration is outside the current scope.
+
 ## Project Documentation
 
 The following documents provide further details about the business analysis and design work:
 
-- [Main Project Documentation](docs/İnternet%20Bankacılığı%20İşlem%20Yönetim%20Sistemi%20-%20Proje.docx)
-- [Mockups and Prototypes](docs/Mockup-Prototip.docx)
-- [Process Flow Diagrams](docs/Proje%20Süreç%20Modelleme%20Flow%20Diyagramları.docx)
-- [BPMN 2.0 Process Flow](docs/Süreç%20Akışı%20BPMN%202.0.docx)
-
-## Project Status
-
-This repository contains business analysis and design documentation prepared as an independent portfolio case study. It is not a live banking application, and production implementation or real banking integration is outside the current scope.
+- [Main Project Documentation](docs/İnternet%20Bankacılığı%20İşlem%20Yönetim%20Sistemi.pdf)
+- [Mockups and Prototypes](docs/Mockup-Prototip.pdf)
+- [Process Flow Diagrams](docs/Proje%20Süreç%20Modelleme%20Flowchart.pdf)
+- [BPMN 2.0 Process Flow](docs/Süreç%20Akışı%20BPMN%202.0.pdf)
